@@ -1,0 +1,16 @@
+package org.pipecrafts.oauth2bootstart;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class Oauth2BootStartApplicationTests {
+
+  @Test
+  public void contextLoads() {
+  }
+
+}
